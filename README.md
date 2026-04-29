@@ -30,9 +30,9 @@ Command-line tool that encodes and decodes image data using run-length encoding 
 
 ## Skills
 
-**Languages:** Python, C++, C, Java, JavaScript, SQL, MATLAB, VHDL, HTML/CSS
+**Languages:** Python, C++, C, Java, JavaScript, SQL, MATLAB, VHDL, HTML/CSS  
 **Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Systems  
-**Tools:**  Git, GitHub, Linux, Visual Studio Code, CLion, Quartus Prime, ModelSim, PyCharm
+**Tools:**  Git, GitHub, Linux, Visual Studio Code, CLion, Quartus Prime, ModelSim, PyCharm  
 **Hardware:**  Arduino, ARM-based systems, Raspberry Pi, FPGA (Intel/Altera)
 
 ---
